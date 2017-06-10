@@ -6,4 +6,5 @@ category:
 tags:
   - dummy1
   - dummy2
+thumbnail: dummy
 ---
