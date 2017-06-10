@@ -14,6 +14,10 @@ date: 2017-06-10 22:16:32
 Hexoという静的サイトジェネレータがありまして、それをつかって当記事なんかも書いています。
 
 <!-- more -->
+<a href="https://px.a8.net/svt/ejp?a8mat=2TKSXI+9ZLU5U+37HI+5ZEMP" target="_blank" rel="nofollow">
+<img border="0" width="120" height="60" alt="" src="https://www25.a8.net/svt/bgt?aid=170611830604&wid=001&eno=01&mid=s00000014967001005000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=2TKSXI+9ZLU5U+37HI+5ZEMP" alt="">
+
 
 markdownで書いて、ビルド的なことをすると静的なHTMLに作り替えてくれるやつです。
 
@@ -72,3 +76,6 @@ https://***.github.io/categories とかを触ったら
 
 これで解決。よしよし。
 
+<a href="https://px.a8.net/svt/ejp?a8mat=2TKSXI+9ZLU5U+37HI+5ZEMP" target="_blank" rel="nofollow">
+<img border="0" width="120" height="60" alt="" src="https://www25.a8.net/svt/bgt?aid=170611830604&wid=001&eno=01&mid=s00000014967001005000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=2TKSXI+9ZLU5U+37HI+5ZEMP" alt="">
