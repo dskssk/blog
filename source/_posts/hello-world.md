@@ -15,6 +15,8 @@ thumbnail: "/img/clouds-2329680_640.thumbnail.jpg"
 
 Hexoをつかってブログを書いてみようとしています。
 
+<!-- more -->
+
 本当はwordpressを使ってやってみよう、と思っていたんですが、
 「wordpressって環境作るの面倒くさくね？」
 「vpsにデプロイするとして、スペックも意外と必要になるのでは」
