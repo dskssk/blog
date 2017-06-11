@@ -110,3 +110,8 @@ image_minifier:
   optimizationLevel: 2
   pngquant: false
   progressive: false
+
+## [hexo-medium-image-plugin](https://github.com/ele828/hexo-medium-image-plugin)
+medium_image_plugin:
+    image_path: 'img/white.png'
+    max_width: 680
