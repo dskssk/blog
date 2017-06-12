@@ -9,8 +9,7 @@ categories:
 thumbnail: "/img/clouds-2329680_640.thumbnail.jpg"
 ---
 
-![](/img/clouds-2329680_640.jpg)
-
+[![](/img/clouds-2329680_640.jpg)](/2017/06/08/hello-world)
 こんにちは、初めまして。わたしです
 
 Hexoをつかってブログを書いてみようとしています。

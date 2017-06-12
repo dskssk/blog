@@ -9,7 +9,7 @@ thumbnail: /img/not_found.thumbnail.jpg
 date: 2017-06-10 22:16:32
 ---
 
-![](/img/not_found.jpg)
+[![](/img/not_found.jpg)](/2017/06/10/icarusのテーマでHexoを作るとcategoriesとかが404になった件)
 
 Hexoという静的サイトジェネレータがありまして、それをつかって当記事なんかも書いています。
 
